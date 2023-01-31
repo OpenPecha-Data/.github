@@ -1,6 +1,8 @@
 ## 👋 Welcome to the OpenPecha Data GitHub!
 
-OpenPecha Data is a collection of 14,000 repositories—_and growing_— that each contain free open-source Tibetan text files in the OpenPecha format (OPF), and in some cases aligned translations. Most repos contain individual texts, while some contain collections. These collections include corpuses, such those created to train translation models, and collections of texts, such as various Kangyur and Tengyur editions.
+OpenPecha Data is a collection of 14,000 repositories—_and growing_— that each contain free open-source Tibetan text files in the OpenPecha format (OPF), and in some cases aligned translations. 
+
+Most repos contain individual texts, while some contain collections. These collections include corpuses, such those created to train translation models, and collections of texts, such as various Kangyur and Tengyur editions.
 
 Developers use OpenPecha Data make corpuses, train large language models, and create Tibetan AI. Publishers use it to create e-texts. Academics use it for data-driven research.
 
