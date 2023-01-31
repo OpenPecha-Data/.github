@@ -26,20 +26,6 @@ A good place to get familiar with the data is in our pinned repos:
 
 Developers use OpenPecha Data make corpuses, train large language models, and create Tibetan AI. Publishers use it to create e-texts. Academics use it for data-driven research.
 
-### Organizations that use OpenPecha Data
-
-![OpenPecha logo](https://user-images.githubusercontent.com/51434640/215687988-ac1a9d29-fbd1-4c3d-824d-ba9abd22914c.png)
-
-**OpenPecha**
-
-![BDRC logo](https://user-images.githubusercontent.com/51434640/194739598-8a630a40-b83e-46cd-9f52-3f746db9864f.png)
-
-**Buddhist Digital Resource Center**
-
-![Monlam logo](https://user-images.githubusercontent.com/51434640/212839127-aba104bb-71f9-47ed-af69-f8d30f393bdb.png)
-
-**Monlam AI**
-
 ## Acknowledgements
 
 We'd like to thank the following organizations for allowing use to include their data in this project:
