@@ -2,14 +2,7 @@
 
 OpenPecha Data is a collection of 14,000 repositories—_and growing_— that each contain free open-source Tibetan text files in the OpenPecha format (OPF), and in some cases aligned translations. Most repos contain individual texts, while some contain collections. These collections include corpuses, such those created to train translation models, and collections of texts, such as various Kangyur and Tengyur editions.
 
-## Table of contents
-<p align="center">
-  <a href="#pinned-repos">Pinned repos</a> •
-  <a href="#what-is-openpecha-data-for">What is OpenPecha Data for?</a> •
-  <a href="#acknowledgements">Acknowledgements</a> •
-  <a href="#get-in-touch">Get in touch</a> •
-  <a href="#terms-of-use">Terms of use</a>
-</p>
+Developers use OpenPecha Data make corpuses, train large language models, and create Tibetan AI. Publishers use it to create e-texts. Academics use it for data-driven research.
 
 ## Pinned repos
 
@@ -21,10 +14,6 @@ A good place to get familiar with the data is in our pinned repos:
 - [**Works**](https://github.com/OpenPecha-Data/works) contains a list of all of the works contained in OpenPecha Data.
 
 > **Note**: _Works_ refer to abstractions of texts, such as the Kangyur, or the Heart Sutra. _Instances_ here refers to unique digital editions of works.
-
-## What is OpenPecha Data for?
-
-Developers use OpenPecha Data make corpuses, train large language models, and create Tibetan AI. Publishers use it to create e-texts. Academics use it for data-driven research.
 
 ## Acknowledgements
 
