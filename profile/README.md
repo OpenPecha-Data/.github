@@ -13,16 +13,18 @@ OpenPecha Data is a collection of 14.5k—and growing—repositories containing 
 
 ## Pinned repos
 
-A good place to start is our pinned repos. They include:
+A good place to start is our pinned repos:
 
-- **Catalog**: a this for that
-- **Collections**: a this for that
-- **Alignments**: a this for that
-- **Works**: a this for that
+- [**Catalog**](https://github.com/OpenPecha-Data/catalog) contains a list of all the instances of works in OpenPecha Data.
+- [**Collections**](https://github.com/OpenPecha-Data/Collections) contains a list of the collections and corpuses in OpenPecha Data.
+- [**Alignments**](https://github.com/OpenPecha-Data/alignments) contains a list of Tibetan-language texts that have been aligned to translations of these texts into other languages.
+- **Works**](https://github.com/OpenPecha-Data/works) contains a list of all of the works contained in OpenPecha Data.
+
+> **Note**: _Works_ refer to abstractions of texts, such as the Kangyur, or the Heart Sutra. _Instances_ here refers to unique digital editions of those works.
 
 ## What is OpenPecha Data for?
 
-Developers use OpenPecha Data make corpuses, train large language models and create Tibetan AI. Publishers use it to create e-texts. Academeics use it for data-driven research.
+Developers use OpenPecha Data make corpuses, train large language models, and create Tibetan AI. Publishers use it to create e-texts. Academics use it for data-driven research.
 
 ### Organizations that use OpenPecha Data
 
